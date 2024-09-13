@@ -1,10 +1,10 @@
-name = "meshjs/marketplace"
+name = "plooty/marketplace"
 version = "0.0.0"
 license = "Apache-2.0"
-description = "Aiken contracts for project 'meshjs/marketplace'"
+description = "Aiken contracts for project 'plooty/marketplace'"
 
 [repository]
-user = "meshjs"
+user = "plooty"
 project = "marketplace"
 platform = "github"
 
