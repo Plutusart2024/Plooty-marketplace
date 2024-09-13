@@ -1,7 +1,7 @@
 {
   "preamble": {
-    "title": "meshjs/marketplace",
-    "description": "Aiken contracts for project 'meshjs/marketplace'",
+    "title": "plooty/marketplace",
+    "description": "Aiken contracts for project 'plooty/marketplace'",
     "version": "0.0.0",
     "plutusVersion": "v2",
     "compiler": {
